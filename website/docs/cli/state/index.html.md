@@ -29,7 +29,7 @@ losing track of resources might cost you a lot of money, annoy all of your
 colleagues, or even compromise the security of your operations. Make sure to
 keep backups of your state data when modifying state out-of-band.
 
-## Checking Things Out
+## Inspecting State
 
 - Use [the `terraform state list` command](/docs/commands/state/list.html) and
   [the `terraform state show` command](/docs/commands/state/show.html) to
