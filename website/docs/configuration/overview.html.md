@@ -22,7 +22,7 @@ describing an intended goal rather than the steps to reach that goal.
 
 ## Resources and Modules
 
-The main purpose of the Terraform language is declaring [resources](./resources.html).
+The main purpose of the Terraform language is declaring [resources](./resources.html), which represent infrastructure objects.
 All other language features exist only to make the definition of resources
 more flexible and convenient.
 

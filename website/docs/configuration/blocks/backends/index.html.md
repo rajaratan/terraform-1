@@ -13,7 +13,7 @@ The rest of this page introduces the concept of backends; the other pages in
 this section document how to configure and use backends.
 
 - [Backend Configuration](/docs/configuration/backend.html) documents the form
-  of a `backend` block, which is used to select and configure a backend for a
+  of a `backend` block, which selects and configures a backend for a
   Terraform configuration.
 - This section also includes a page for each of Terraform's built-in backends,
   documenting its behavior and available settings. See the navigation sidebar

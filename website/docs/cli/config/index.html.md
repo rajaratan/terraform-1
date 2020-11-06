@@ -8,8 +8,8 @@ page_title: "CLI Configuration - Terraform CLI"
 Terraform CLI can be configured with some global settings, which are separate
 from any Terraform configuration and which apply across all working directories.
 
-We've tried to design Terraform such that an average user running Terraform CLI
-interactively will not need to interact with any of these settings; as such,
+We've designed Terraform such that an average user running Terraform CLI
+interactively will not need to interact with any of these settings. As a result,
 most of the global settings relate to advanced or automated workflows, or
 unusual environmental conditions like running Terraform on an airgapped
 instance.
